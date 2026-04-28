@@ -1,1 +1,1 @@
-Aplikacja do wyświetlania nieobsługiwanych wskaźników przez inne programy symulujące urządzenia SRK dla symulatora TD2.
+Aplikacja do wyświetlania wskaźników symulatora TD2.
